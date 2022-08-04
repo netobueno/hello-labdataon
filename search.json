@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "jokes.html",
+    "href": "jokes.html",
+    "title": "jokes",
+    "section": "",
+    "text": "qual_time_nao_tem_mundial\n\n qual_time_nao_tem_mundial ()\n\ncomo utilizar\n\nqual_time_nao_tem_mundial()\n\n'Hi Rejane!'"
+  },
+  {
+    "objectID": "greetings.html",
+    "href": "greetings.html",
+    "title": "hello-labdataon",
+    "section": "",
+    "text": "hello\n\n hello (to)\n\ncomo utilizar\n\nhello (to=\"Rejane\")\n\n'Hi Rejane!'"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "hello_labdataon",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "hello_labdataon",
+    "section": "Install",
+    "text": "Install\n’pip install hello_labdataon"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "hello_labdataon",
+    "section": "How to use",
+    "text": "How to use\nuse esse pacote para disser oi em ingles para as pessoas :)\n\nhello(to=\"Jose\")\n\n'Hi Jose!'"
+  }
+]
