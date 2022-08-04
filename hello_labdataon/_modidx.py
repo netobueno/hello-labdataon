@@ -26,5 +26,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'tst_flags': 'notest',
                 'user': 'netobueno',
                 'version': '0.0.1'},
-  'syms': { 'hello_labdataon\\greetings': { 'hello_labdataon\\greetings.hello': 'https://netobueno.github.io/hello_labdataon/hello_labdataon\\greetings.html#hello'},
-            'hello_labdataon\\jokes': { 'hello_labdataon\\jokes.qual_time_nao_tem_mundial': 'https://netobueno.github.io/hello_labdataon/hello_labdataon\\jokes.html#qual_time_nao_tem_mundial'}}}
+  'syms': { 'hello_labdataon.greetings': {'hello_labdataon.greetings.hello': 'https://netobueno.github.io/hello_labdataon/greetings.html#hello'},
+            'hello_labdataon.jokes': { 'hello_labdataon.jokes.qual_time_nao_tem_mundial': 'https://netobueno.github.io/hello_labdataon/jokes.html#qual_time_nao_tem_mundial'}}}
